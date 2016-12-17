@@ -29,5 +29,6 @@ public class Test {
         System.out.println(getChar("leetddgrw"));
         System.out.println(getChar("teeteet"));
         System.out.println(getChar("taaaaffteet"));
+        System.out.println(getChar("tbbbbaffteet"));
     } 
 }
